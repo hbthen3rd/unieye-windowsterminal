@@ -1,0 +1,23 @@
+{
+  "name": "UniEye",
+  "background": "#0B0A10",
+  "foreground": "#CAC3DF",
+  "cursorColor": "#CAC3DF",
+  "selectionBackground": "#7040FF",
+  "black": "#171420",
+  "red": "#9F2846",
+  "green": "#208020",
+  "yellow": "#DF8B38",
+  "blue": "#6238DF",
+  "purple": "#8B38DF",
+  "cyan": "#3C869F",
+  "white": "#908B9F",
+  "brightBlack": "#2E2840",
+  "brightRed": "#BF3054",
+  "brightGreen": "#289F28",
+  "brightYellow": "#FF9F40",
+  "brightBlue": "#7040FF",
+  "brightPurple": "#9F40FF",
+  "brightCyan": "#48A1BF",
+  "brightWhite": "#ADA7BF"
+}
