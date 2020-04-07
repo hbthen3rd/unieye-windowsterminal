@@ -13,6 +13,17 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 
+### Recommended settings:
+
+```json
+  "colorScheme": "UniEye",
+  "fontFace": "CaskaydiaCove Nerd Font",
+  "fontSize": 12,
+  // Uncomment the following two lines for the "UniEye Air" variant
+  // "useAcrylic": true,
+  // "acrylicOpacity": 0.875,
+```
+
 ### UniEye family:
 
 - [UniEye for Visual Studio Code](https://github.com/hbthen3rd/unieye-vscode)
